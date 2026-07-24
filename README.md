@@ -2,7 +2,7 @@
 
 ### MIT BWSI Cyber Operations Hackathon 2026
 
-The **Br1lliantBe4vers** Team: Gabrielle Sharipov, Aakash Jhingran, Omya Tomar, Vincent Huynh
+The **Br1lliantBe4vers** Team: _Gabrielle Sharipov, Aakash Jhingran, Omya Tomar, Vincent Huynh_
 
 **Project Link:** https://operation-black-vault.vercel.app/
 
