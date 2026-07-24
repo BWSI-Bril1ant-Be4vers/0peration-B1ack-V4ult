@@ -1,293 +1,194 @@
-# Operation BLACK VAULT
+# 🦫 0peration-B1ack-V4ult
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CTF-Escape%20Room-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Challenges-10-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Platform-Web-blue?style=for-the-badge">
-</p>
+### MIT Beaver Works Summer Institute Cyber Operations Hackathon 2026
 
-# 🚨 LIVE MISSION
+**Team:** Br1lliantBe4vers
+**Game:** 0peration-B1ack-V4ult
 
-## Play Now:
-# https://operation-black-vault.vercel.app/
-
-Do you have what it takes?
+> **Infiltrate · Investigate · Exfiltrate**
 
 ---
 
-## 🏦 Mission Briefing
+## 🕵️ About
 
-**Operation BLACK VAULT** is a browser-based cybersecurity escape-room CTF where you become an elite investigator infiltrating **Black Vault Bank**, a corrupt financial institution hiding years of classified operations.
+**0peration-B1ack-V4ult** is a browser-based cybersecurity escape-room **Capture The Flag (CTF)** game created by **Br1lliantBe4vers** for the **MIT Beaver Works Summer Institute (BWSI) Cyber Operations Hackathon 2026**.
 
-Your mission:
+Players take on the role of a cybersecurity investigator infiltrating the internal network of **Black Vault Bank**, a fictional financial institution hiding evidence of:
 
-> Infiltrate the bank. Recover the evidence. Escape before AEGIS wipes everything.
+* 💰 Financial crimes
+* 🏢 Corporate corruption
+* 📡 Illegal surveillance
+* 🗑️ Evidence destruction
 
-You have **30 minutes** before **AEGIS**, the bank's autonomous security system, completes its purge sequence.
+An internal breach has uncovered critical evidence—but the bank's autonomous security system, **AEGIS**, is preparing to erase everything.
 
-Every clue matters.
+Your mission is simple:
 
-Every decision matters.
-
-Every second counts.
-
----
-
-# 📖 The Story
-
-Black Vault Bank was built on secrecy.
-
-Behind its financial empire existed a hidden network used for unauthorized operations, confidential projects, and information trading.
-
-After an internal breach exposes the truth, the bank activates its final defense mechanism:
-
-## AEGIS PURGE PROTOCOL
-
-The system begins destroying all evidence.
-
-Your objective:
-
-- infiltrate the bank's systems
-- investigate hidden infrastructure
-- recover classified evidence
-- bypass security challenges
-- reach the Black Vault before everything disappears
+> **Infiltrate. Investigate. Exfiltrate.**
 
 ---
 
-# Features
+## 🤖 AEGIS
 
-## 🧩 10 Cybersecurity Challenge Rooms
+**AEGIS** is Black Vault Bank's autonomous security system.
 
-A complete CTF campaign covering multiple cybersecurity disciplines.
+After detecting the player's intrusion, AEGIS begins preparing to erase the evidence hidden within the bank's systems.
 
-Challenges include:
+Players have:
 
-- Reconnaissance
-- Cryptography
-- Reverse Engineering
-- OSINT
-- Digital Forensics
-- GEOINT
-- Command Line Investigation
-- Binary Exploitation Concepts
-- Logic Puzzles
-- Meta Challenges
+# ⏱️ 45 MINUTES
+
+to navigate the operation, investigate the bank's network, solve cybersecurity challenges, and uncover the evidence before it is wiped.
+
+The clock is ticking.
 
 ---
 
-## ⏳ 30-Minute Mission Timer
+## 🎯 The Mission
 
-Once infiltration begins, the clock starts.
+Your objective is to infiltrate Black Vault Bank and uncover the truth hidden within its systems.
 
-Complete the operation before:
+### Your mission:
 
-- time expires
-- AEGIS reaches maximum alert
-- evidence is permanently destroyed
+1. 🖥️ **Infiltrate** the bank's internal network
+2. 🔎 **Investigate** the evidence hidden throughout the operation
+3. 🧩 **Solve** cybersecurity challenges
+4. 📂 **Uncover** critical evidence
+5. 🚨 **Navigate** the bank's security systems
+6. 🏃 **Exfiltrate** before AEGIS erases everything
 
----
-
-## 🤖 AEGIS Alert System
-
-Your actions affect the investigation.
-
-Wrong answers and hints increase AEGIS suspicion.
-
-Reach **100% alert** and the operation fails.
+Can you complete the operation before the evidence disappears?
 
 ---
 
-## 🗂 Evidence Archive
+## 🗺️ Game Overview
 
-Recover classified evidence throughout the operation.
+| 🏦 | **20 Rooms**   |
+| -- | -------------- |
+| ⏱️ | **45 Minutes** |
+| 🎯 | **1 Mission**  |
 
-Each room reveals new intelligence that helps uncover the truth behind Black Vault Bank.
+Players must work their way through **20 rooms**, each containing cybersecurity challenges and clues that move the investigation forward.
 
-Collected evidence becomes essential during the final stages of the mission.
-
----
-
-## 🌐 Interactive Network Map
-
-Navigate through the bank's infrastructure.
-
-Track:
-
-- locked systems
-- active investigations
-- completed rooms
-- recovered evidence
+Every room brings you one step closer to uncovering what Black Vault Bank has been hiding.
 
 ---
 
-## 💻 Simulated Cyber Tools
+## 🧩 Cybersecurity Challenge Categories
 
-Experience realistic cybersecurity workflows in a safe environment.
+The operation features challenges across multiple areas of cybersecurity, including:
 
-Includes:
+* 🔐 **Cryptography**
+* 🔄 **Reverse Engineering**
+* 🔎 **OSINT**
+* 🌍 **GEOINT**
+* 💻 **Binary Exploitation**
+* 🧩 **Miscellaneous**
 
-- simulated terminal investigation
-- encoded messages
-- forensic analysis
-- intelligence gathering
-- reverse engineering puzzles
-- binary concepts
-- meta challenges
+Players must apply cybersecurity knowledge, critical thinking, and problem-solving skills to progress through the operation.
 
-No real commands are executed.
-
----
-
-# 🧠 Challenge Rooms
-
-## ROOM 01 — THE GATEWAY
-
-**Category:** Recon / Misc  
-**Difficulty:** ⭐
-
-Your first entry point into Black Vault infrastructure.
-
-Investigate exposed information and begin building your understanding of the bank's internal systems.
+> All cybersecurity challenges are simulated and contained within the game environment.
 
 ---
 
-## ROOM 02 — ENCRYPTED MAIL
+## 🎮 How It Works
 
-**Category:** Cryptography  
-**Difficulty:** ⭐
-
-A suspicious internal communication has been recovered.
-
-Analyze the hidden message and uncover information buried inside.
-
----
-
-## ROOM 03 — THE BLACK BOX
-
-**Category:** Reverse Engineering  
-**Difficulty:** ⭐
-
-A mysterious application has been discovered.
-
-Analyze its behavior and uncover what secrets it contains.
-
----
-
-## ROOM 04 — DIGITAL FOOTPRINT
-
-**Category:** OSINT  
-**Difficulty:** ⭐
-
-An employee accidentally exposed traces of sensitive information.
-
-Use investigative techniques to uncover valuable intelligence.
-
----
-
-## ROOM 05 — DEAD DROP
-
-**Category:** Digital Forensics  
-**Difficulty:** ⭐
-
-A suspicious file has been recovered.
-
-Separate noise from evidence and uncover what was intentionally hidden.
-
----
-
-## ROOM 06 — GEOLOCATION
-
-**Category:** GEOINT  
-**Difficulty:** ⭐
-
-A recovered artifact contains location-based clues.
-
-Analyze the evidence and determine where the trail leads.
+```text
+┌───────────────────────────┐
+│     START OPERATION       │
+└─────────────┬─────────────┘
+              │
+              ▼
+┌───────────────────────────┐
+│  INFILTRATE BLACK VAULT   │
+│          BANK              │
+└─────────────┬─────────────┘
+              │
+              ▼
+┌───────────────────────────┐
+│      INVESTIGATE 20       │
+│          ROOMS             │
+└─────────────┬─────────────┘
+              │
+              ▼
+┌───────────────────────────┐
+│     SOLVE CYBERSECURITY   │
+│       CHALLENGES           │
+└─────────────┬─────────────┘
+              │
+              ▼
+┌───────────────────────────┐
+│      UNCOVER EVIDENCE     │
+└─────────────┬─────────────┘
+              │
+              ▼
+┌───────────────────────────┐
+│    EXFILTRATE BEFORE      │
+│     AEGIS ERases IT       │
+└─────────────┬─────────────┘
+              │
+              ▼
+┌───────────────────────────┐
+│      MISSION COMPLETE     │
+└───────────────────────────┘
+```
 
 ---
 
-## ROOM 07 — EXECUTIVE TERMINAL
+## ⚡ Key Features
 
-**Category:** Command Line  
-**Difficulty:** ⭐⭐
-
-Access a simulated executive workstation.
-
-Explore the environment and uncover hidden information left behind.
-
----
-
-## ROOM 08 — BINARY VAULT
-
-**Category:** Binary Exploitation Concepts  
-**Difficulty:** ⭐⭐
-
-A protected application guards valuable information.
-
-Understand memory structures and application behavior to overcome the challenge.
+* 🌐 Browser-based cybersecurity escape room
+* 🚩 CTF-inspired gameplay
+* 🏦 Immersive fictional bank investigation
+* 🤖 Autonomous AI security system narrative
+* ⏱️ 45-minute operation
+* 🧩 20 rooms to investigate
+* 🔐 Multiple cybersecurity challenge categories
+* 🔎 Evidence-driven investigation
+* 🎯 One overarching mission
+* 💻 Challenges contained entirely within the game environment
 
 ---
 
-## ROOM 09 — AEGIS CORE
+## 🛠️ Built With
 
-**Category:** Logic / Meta Puzzle  
-**Difficulty:** ⭐⭐⭐
+> Update this section with the exact technologies used in the project.
 
-You've reached the center of the security system.
-
-Use everything collected so far to overcome AEGIS's final verification process.
-
----
-
-## ROOM 10 — BLACK VAULT
-
-**Category:** Final Meta Challenge  
-**Difficulty:** ⭐⭐⭐
-
-The final security layer stands between you and the evidence archive.
-
-Combine your discoveries, defeat the final challenge, and complete the operation.
+* HTML
+* CSS
+* JavaScript
+* [Add framework(s) here]
+* [Add libraries here]
+* [Add backend/database technologies here]
 
 ---
 
-# 🏆 Operator Rankings
+## 👥 Team
 
-Your final rank depends on:
+### 🦫 Br1lliantBe4vers
 
-- completion time
-- number of hints used
-- incorrect attempts
-- overall efficiency
-
-Only elite operators achieve maximum clearance.
+**0peration-B1ack-V4ult** was created by **Br1lliantBe4vers** for the **MIT Beaver Works Summer Institute Cyber Operations Hackathon 2026**.
 
 ---
 
-# 🛠 Tech Stack
+## ⚠️ Disclaimer
 
-Built using:
+**0peration-B1ack-V4ult** is an educational cybersecurity game created for learning and entertainment.
 
-- Next.js 14
-- React 18
-- TypeScript
-- Tailwind CSS
-- lucide-react
-- LocalStorage persistence
+All organizations, characters, systems, and scenarios depicted in the game are fictional. All cybersecurity challenges are simulated and contained within the game environment.
 
 ---
 
-# 🔒 Security
+## 🕵️ The Operation Begins
 
-Operation BLACK VAULT is completely simulated.
+> **Black Vault Bank has been hiding something.**
 
-The application:
+> **An internal breach has uncovered evidence of financial crimes, corporate corruption, and illegal surveillance.**
 
-✅ never executes real terminal commands  
-✅ never accesses your filesystem  
-✅ never performs network scanning  
-✅ never runs user-provided code  
+> **Now, AEGIS is preparing to erase everything.**
 
-All challenges exist safely inside the browser.
+### ⏱️ 45 Minutes. 20 Rooms. 1 Mission.
 
----
+# **Infiltrate · Investigate · Exfiltrate**
+
+## 🦫 Welcome to 0peration-B1ack-V4ult.
