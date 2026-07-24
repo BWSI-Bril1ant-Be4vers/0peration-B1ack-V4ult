@@ -107,13 +107,13 @@ Players must apply cybersecurity knowledge, critical thinking, and problem-solvi
 
 ## 🛠️ Built With
 
-* HTML
-* CSS
-* JavaScript
-* React 18
-* Vercel (Deployment)
-* LocalStorage
-* Lucide-react
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **React 18**
+* **Vercel (Deployment)**
+* **LocalStorage**
+* **Lucide-react**
 
 ---
 
