@@ -35,7 +35,7 @@ After detecting the player's intrusion, AEGIS begins preparing to erase the evid
 
 Players have:
 
-# ⏱️ 45 MINUTES
+**⏱️ 45 MINUTES**
 
 to navigate the operation, investigate the bank's network, solve cybersecurity challenges, and uncover the evidence before it is wiped.
 
