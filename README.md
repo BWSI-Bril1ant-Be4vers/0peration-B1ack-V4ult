@@ -4,7 +4,7 @@
 
 The **Br1lliantBe4vers** Team: _Gabrielle Sharipov, Aakash Jhingran, Omya Tomar, Vincent Huynh_
 
-**Project Link:** [https://operation-black-vault.vercel.app/](https://0peration-b1ack-v4ult.vercel.app/)
+**Project Link:** [https://0peration-b1ack-v4ult.vercel.app/](https://0peration-b1ack-v4ult.vercel.app/)
 
 ---
 
