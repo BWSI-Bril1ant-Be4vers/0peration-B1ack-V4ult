@@ -8,6 +8,9 @@ The **Br1lliantBe4vers** Team: _Gabrielle Sharipov, Aakash Jhingran, Omya Tomar,
 
 ---
 
+Designed and created by the br1lliant be4vers themselves, br1lliant t0ols is a kit of useful CTF tools, some of which can be used to solve puzzles in 0peration b1ack v4ult!
+[https://bwsi-bril1ant-be4vers.github.io/br1lliantT0ols.github.io/](https://bwsi-bril1ant-be4vers.github.io/br1lliantT0ols.github.io)
+
 ## 🕵️ About
 
 **0peration-B1ack-V4ult** is a browser-based cybersecurity escape-room **Capture The Flag (CTF)** game created by **Br1lliantBe4vers** for the **MIT Beaver Works Summer Institute (BWSI) Cyber Operations Hackathon 2026**.
