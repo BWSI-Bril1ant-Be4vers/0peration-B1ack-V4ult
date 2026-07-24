@@ -1,13 +1,10 @@
 # 🦫 0peration-B1ack-V4ult
 
-### MIT Beaver Works Summer Institute Cyber Operations Hackathon 2026
+### MIT BWSI Cyber Operations Hackathon 2026
 
-**Team:** Br1lliantBe4vers
-**Game:** 0peration-B1ack-V4ult
+The **Br1lliantBe4vers** Team: Gabrielle Sharipov, Aakash Jhingran, Omya Tomar, Vincent Huynh
 
-https://operation-black-vault.vercel.app/
-
-> **Infiltrate · Investigate · Exfiltrate**
+**Project Link:** https://operation-black-vault.vercel.app/
 
 ---
 
@@ -26,7 +23,7 @@ An internal breach has uncovered critical evidence—but the bank's autonomous s
 
 Your mission is simple:
 
-> **Infiltrate. Investigate. Exfiltrate.**
+**Infiltrate. Investigate. Exfiltrate.**
 
 ---
 
