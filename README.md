@@ -90,50 +90,6 @@ Players must apply cybersecurity knowledge, critical thinking, and problem-solvi
 
 ---
 
-## 🎮 How It Works
-
-```text
-┌───────────────────────────┐
-│     START OPERATION       │
-└─────────────┬─────────────┘
-              │
-              ▼
-┌───────────────────────────┐
-│  INFILTRATE BLACK VAULT   │
-│          BANK              │
-└─────────────┬─────────────┘
-              │
-              ▼
-┌───────────────────────────┐
-│      INVESTIGATE 20       │
-│          ROOMS             │
-└─────────────┬─────────────┘
-              │
-              ▼
-┌───────────────────────────┐
-│     SOLVE CYBERSECURITY   │
-│       CHALLENGES           │
-└─────────────┬─────────────┘
-              │
-              ▼
-┌───────────────────────────┐
-│      UNCOVER EVIDENCE     │
-└─────────────┬─────────────┘
-              │
-              ▼
-┌───────────────────────────┐
-│    EXFILTRATE BEFORE      │
-│     AEGIS ERases IT       │
-└─────────────┬─────────────┘
-              │
-              ▼
-┌───────────────────────────┐
-│      MISSION COMPLETE     │
-└───────────────────────────┘
-```
-
----
-
 ## ⚡ Key Features
 
 * 🌐 Browser-based cybersecurity escape room
@@ -151,22 +107,13 @@ Players must apply cybersecurity knowledge, critical thinking, and problem-solvi
 
 ## 🛠️ Built With
 
-> Update this section with the exact technologies used in the project.
-
 * HTML
 * CSS
 * JavaScript
-* [Add framework(s) here]
-* [Add libraries here]
-* [Add backend/database technologies here]
-
----
-
-## 👥 Team
-
-### 🦫 Br1lliantBe4vers
-
-**0peration-B1ack-V4ult** was created by **Br1lliantBe4vers** for the **MIT Beaver Works Summer Institute Cyber Operations Hackathon 2026**.
+* React 18
+* Vercel (Deployment)
+* LocalStorage
+* Lucide-react
 
 ---
 
@@ -176,18 +123,3 @@ Players must apply cybersecurity knowledge, critical thinking, and problem-solvi
 
 All organizations, characters, systems, and scenarios depicted in the game are fictional. All cybersecurity challenges are simulated and contained within the game environment.
 
----
-
-## 🕵️ The Operation Begins
-
-> **Black Vault Bank has been hiding something.**
-
-> **An internal breach has uncovered evidence of financial crimes, corporate corruption, and illegal surveillance.**
-
-> **Now, AEGIS is preparing to erase everything.**
-
-### ⏱️ 45 Minutes. 20 Rooms. 1 Mission.
-
-# **Infiltrate · Investigate · Exfiltrate**
-
-## 🦫 Welcome to 0peration-B1ack-V4ult.
