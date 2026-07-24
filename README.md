@@ -10,7 +10,7 @@ The **Br1lliantBe4vers** Team: _Gabrielle Sharipov, Aakash Jhingran, Omya Tomar,
 # 🔎 Br1lliantT0ols
 
 Designed and created by the br1lliant be4vers themselves, br1lliant t0ols is a kit of useful CTF tools, some of which can be used to solve puzzles in 0peration b1ack v4ult!
-[https://bwsi-bril1ant-be4vers.github.io/br1lliantT0ols.github.io/](https://bwsi-bril1ant-be4vers.github.io/br1lliantT0ols.github.io)
+**Project link:** [https://bwsi-bril1ant-be4vers.github.io/br1lliantT0ols.github.io/](https://bwsi-bril1ant-be4vers.github.io/br1lliantT0ols.github.io)
 
 ## 🕵️ About
 
