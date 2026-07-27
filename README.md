@@ -8,6 +8,8 @@ The **Br1lliantBe4vers** Team: _Gabrielle Sharipov, Aakash Jhingran, Omya Tomar,
 
 **Devpost Link:** https://devpost.com/software/operation-black-vault
 
+**YT Demo Link:** https://www.youtube.com/watch?v=cF_miySbIKI
+
 ---
 # 🔎 Br1lliantT0ols
 
