@@ -11,7 +11,7 @@ The **Br1lliantBe4vers** Team: _Gabrielle Sharipov, Aakash Jhingran, Omya Tomar,
 **YT Demo Link:** https://www.youtube.com/watch?v=cF_miySbIKI
 
 ---
-# 🔎 Br1lliantT0ols
+## 🔎 Br1lliantT0ols
 
 Designed and created by the br1lliantbe4vers themselves, br1lliantT0ols is a kit of useful CTF tools, some of which can be used to solve puzzles in 0peration B1ack V4ult!
 
